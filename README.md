@@ -126,6 +126,33 @@ ChaosLab
 - Description: This Game is about managing your chaotic laboratory.
 
 ---
+MyAwesomeGame (example)
+-----------------------
+
+<img src="images/hetzner_game_jam_logo_small.png" height="200">
+
+- Link: [https://github.com/Risen1801/HetznerGameJam/tree/main]
+- Contributors:
+  - [https://github.com/ChrisDrake6]
+  - [https://github.com/GarNicWahr]
+  - [https://github.com/iCeeker]
+  - [https://github.com/Strawberry-xD]
+  - [https://github.com/Risen1801]
+- Description: It's a Game where two players try to sabotage each other and destory the oponents balance.
+
+---
+Balance_drill
+-----------------------
+
+- Link: [https://github.com/Schunik67/Balance2]
+- Contributors:
+  - [Florian]
+  - [Niko]
+  - [Inga]
+  - [Johannes]
+- Description: Tunnel-digging game about maintaining balance between nature and machines
+
+---
 
 MyAwesomeGame (example)
 -----------------------
